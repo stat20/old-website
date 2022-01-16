@@ -28,16 +28,16 @@ enableEmoji = true
     falseClasses = false
     
 [params]
-  description = "Course website for Teaching Statistics and Data Science at UC Berkeley."
+  description = "Welcome to the course. We're glad you're here."
   favicon = "/img/favicon.ico"
   logo = "/img/stat-375-hex.png"
 #  logo = "static/letter-g.svg"
-  mainSections = ["assignments", "slides"]
+  mainSections = ["syllabus", "schedule", "staff", "labs"]
   navallcaps = true
   orgName = "Andrew Bray"
   #sharing_image = "/img/papillons.jpg"
   socialInFooter = true
-  socialInHeader = false
+  socialInHeader = true
 
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -64,9 +64,13 @@ enableEmoji = true
   headingFontFamily = "avenir"
 
   [[params.social]]
-      icon      = "github" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://github.com/teaching-sds"
+      icon      = "comments" # icon name without the 'fa-'
+      icon_pack = "far"
+      url       = "https://edstem.org"
+  [[params.social]]
+      icon      = "chart-bar" # icon name without the 'fa-'
+      icon_pack = "fas"
+      url       = "https://gradescope.com"
 
 [taxonomies]
   category = "categories"
@@ -85,15 +89,23 @@ enableEmoji = true
     url = "/syllabus/"
     weight = 1
   [[menu.header]]
-    name = "Course Materials"
-    title = "Course Materials"
-    url = "/course-materials/"
+    name = "Schedule"
+    title = "Schedule"
+    url = "/schedule/"
     weight = 2
   [[menu.header]]
-    name = "Assignments"
-    title = "Syllabus"
-    url = "/assignments/"
+    name = "Labs"
+    title = "Labs"
+    url = "/labs/"
     weight = 3
+  [[menu.contact]]
+      name      = "Ed"
+      weight    = 1
+      url       = "https://edstem.org"
+  [[menu.contact]]
+      name      = "Gradescope"
+      weight    = 2
+      url       = "https://gradescope.com"
 
 # see https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
