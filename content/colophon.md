@@ -1,7 +1,6 @@
 ---
 title: About these materials
 description: Attribution and license for the course materials
-draft: false
 show_title_as_headline: true
 ---
 
