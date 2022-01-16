@@ -1,15 +1,27 @@
 ---
-title: "Welcome to Class"
+title: "Lab 1: Getting Started"
 author: "Andrew Bray"
-subtitle: "Welcome to your first class."
-summary: "Welcome to your first class."
+subtitle: "This is the subtitle.."
+summary: "This the summary."
 #slides: ''
-#projects: []
-# links:
-# - icon: images
-#   icon_pack: fas
-#   name: slides
-#   url: https://stat375.netlify.app/slides/how-to-teach-without-lecturing
+projects: []
+links:
+  - icon: file-pdf
+    icon_pack: fas
+    name: Questions
+    url: https://boring-benz-9a1961.netlify.app/slides/how-to-teach-without-lecturing
+  - icon: chalkboard-teacher
+    icon_pack: fas
+    name: Slides
+    url: https://slides.garrickadenbuie.com/xaringan-playground
+  - icon: github
+    icon_pack: fab
+    name: Code
+    url: https://github.com/gadenbuie/slides/tree/gh-pages/xaringan-playground
+  - icon: play
+    icon_pack: fas
+    name: Video
+    url: https://rstudio.com/resources/rstudioglobal-2021/xaringan-playground-using-xaringan-to-learn-web-development/
 ---
 
 ### Learning Objectives
@@ -26,24 +38,3 @@ Read this [Washington Post article](https://www.washingtonpost.com/news/answer-s
 - Can you offer a counterexample—are there situations where lecture is actually valuable and effective?
 - Have you ever been in a class that is not lecture-based? What are some strategies you might suggest for successful alternative teaching strategies?
 
-### Reflection
-
-1. Select an active learning protocol to implement in your next class: Peer Instruction, Think-Pair-Share, Purposeful Question, Quick Write, Other...
-
-2. Write a detailed description of how you will facilitate it, including
-    - the concept question / prompt
-    - timing of each element
-    - precisely what students will be asked to do
-    - how groups will be formed
-
-3. Reflect on how it went
-    - how did it feel to facilitate?
-    - in what ways was it effective/ineffective?
-
-### Slides
-
-```{r echo=FALSE}
-xaringanExtra::embed_xaringan(
-  "https://stat375.netlify.app/slides/welcome-to-class",
-  ratio = "16:9")
-```
