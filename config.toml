@@ -19,7 +19,7 @@ enableEmoji = true
     unsafe = true  # Enable user to embed HTML snippets in Markdown content.
     hardwraps = false
   [markup.tableOfContents]
-    startLevel = 2
+    startLevel = 1
     endLevel = 2
     ordered = false
   [markup.highlight]
@@ -66,11 +66,19 @@ enableEmoji = true
   [[params.social]]
       icon      = "comments" # icon name without the 'fa-'
       icon_pack = "far"
-      url       = "https://edstem.org"
+      url       = "https://edstem.org/us/courses/18678/discussion/"
+  [[params.social]]
+      icon      = "r-project" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://r.datahub.berkeley.edu/"
   [[params.social]]
       icon      = "chart-bar" # icon name without the 'fa-'
       icon_pack = "fas"
-      url       = "https://gradescope.com"
+      url       = "https://www.gradescope.com/courses/356299"
+  [[params.social]]
+      icon      = "video" # icon name without the 'fa-'
+      icon_pack = "fas"
+      url       = "https://bcourses.berkeley.edu/courses/1513313/external_tools/78985"
 
 [taxonomies]
   category = "categories"
@@ -94,18 +102,15 @@ enableEmoji = true
     url = "/schedule/"
     weight = 2
   [[menu.header]]
+    name = "Staff"
+    title = "Staff"
+    url = "/staff/"
+    weight = 3
+  [[menu.header]]
     name = "Labs"
     title = "Labs"
     url = "/labs/"
     weight = 3
-  [[menu.contact]]
-      name      = "Ed"
-      weight    = 1
-      url       = "https://edstem.org"
-  [[menu.contact]]
-      name      = "Gradescope"
-      weight    = 2
-      url       = "https://gradescope.com"
 
 # see https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
