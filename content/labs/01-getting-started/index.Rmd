@@ -9,7 +9,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Lab
-    url: https://boring-benz-9a1961.netlify.app/slides/how-to-teach-without-lecturing
+    url: https://reverent-volhard-a212fb.netlify.app/labs/01-getting-started/gettin-started.pdf
   - icon: chalkboard-teacher
     icon_pack: fas
     name: Slides
