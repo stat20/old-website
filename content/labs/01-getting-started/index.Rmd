@@ -9,7 +9,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Lab
-    url: https://reverent-volhard-a212fb.netlify.app/labs/01-getting-started/gettin-started.pdf
+    url: https://reverent-volhard-a212fb.netlify.app/labs/01-getting-started/getting-started.pdf
   - icon: chalkboard-teacher
     icon_pack: fas
     name: Slides
