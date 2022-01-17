@@ -8,7 +8,7 @@ projects: []
 links:
   - icon: file-pdf
     icon_pack: fas
-    name: Questions
+    name: Lab
     url: https://boring-benz-9a1961.netlify.app/slides/how-to-teach-without-lecturing
   - icon: chalkboard-teacher
     icon_pack: fas
@@ -24,13 +24,13 @@ links:
     url: https://rstudio.com/resources/rstudioglobal-2021/xaringan-playground-using-xaringan-to-learn-web-development/
 ---
 
-### Learning Objectives
+# Learning Objectives
 
 1. Explain what the evidence shows regarding learning outcomes of active versus lecture-based learning.
 2. 
 3. Carry out the protocol of at least one active learning strategy in your own classroom.
 
-### Preparation
+# Preparation
 
 Read this [Washington Post article](https://www.washingtonpost.com/news/answer-sheet/wp/2017/07/11/it-puts-kids-to-sleep-but-teachers-keep-lecturing-anyway-heres-what-to-do-about-it/) and post a follow-up comment on the class forum. Here are some guiding questions:
 
