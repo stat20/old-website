@@ -3,7 +3,7 @@ title: Introduction to Probability and Statistics
 description: Welcome to the course. We're glad you're here.
 subtitle: STAT 20, UC Berkeley
 images:
-- img/stat-375-hex.png
+- img/stat20-hex.png
 text_align_left: true
 image_left: false
 show_action_link: true
