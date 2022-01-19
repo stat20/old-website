@@ -101,15 +101,15 @@ enableEmoji = true
     url = "/schedule/"
     weight = 2
   [[menu.header]]
-    name = "Staff"
-    title = "Staff"
-    url = "/staff/"
-    weight = 3
-  [[menu.header]]
     name = "Labs"
     title = "Labs"
     url = "/labs/"
     weight = 3
+  [[menu.header]]
+    name = "Problem Sets"
+    title = "Problem Sets"
+    url = "/problem-sets/"
+    weight = 4
 
 # see https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
