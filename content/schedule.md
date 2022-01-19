@@ -7,7 +7,10 @@ draft: false
 show_title_as_headline: true
 ---
 
-Labs are due Monday night at 10 pm.
+**Lecture**: MWF, 11 am - 12 noon PT  
+**Lab Sections**: Tues and Thurs, throughout the day 
+
+Lab assignments and problem sets will generally be available on Tuesday mornings here on the website and are due on [Gradescope](https://www.gradescope.com) by 10 pm Mondays.
 
 <table class="table table-hover" style="margin-left: auto; margin-right: auto;">
 <thead>

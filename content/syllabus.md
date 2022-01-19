@@ -33,14 +33,12 @@ If you are concerned about classroom environment issues created by other student
 
 
 ### Mode of Instruction
-
 The first two weeks of lectures, labs, evening study session, and office hours will be held live on Zoom. All Zoom links will be distributed via the class forum. After two weeks, we plan to resume the mode of instruction outlined below, though that will be moderated by any changes to campus policy.
 
 Maintaining your health and that of the Berkeley community is of primary importance to course staff, so if you are feeling ill or have been exposed to illness, please do not come to class. Recordings of the lecture are available online and you will have the ability to join a make-up lab remotely.
 
 
 #### Lectures
-
 This course, Stat 20 in Spring 2022, has three lecture sections. Lecture 002 is a live lecture in-person. Lecture 001 is a simulcast from Lecture 002 projected into an overflow room. The lecture will be recorded and posted to bCourses for asynchronous viewing by all students, including those in Lecture 003, which is a section with only these recorded lectures.
 
 The lecture recordings will be available on bCourses for a window of 24 hours after the lecture was given live. This balances the flexibility to watch lecture when convenient with a structure that will help keep students on up-to-date with the course. All of the lecture recordings will be made available again prior to the midterm and final for review.
