@@ -1,8 +1,8 @@
 ---
-title: Labs
+title: Problem Sets
 description: |
-  Weekly data analysis labs due on [Gradescope](https://www.gradescope.com/courses/356299) by 10 pm Monday.
-show_post_thumbnail: true
+  Weekly practice problems due on  [Gradescope](https://www.gradescope.com/courses/356299) by 10 pm Monday.
+show_post_thumbnail: false
 thumbnail_left: true
 show_author_byline: false
 show_post_date: true

@@ -2,7 +2,7 @@
 title: Labs
 description: |
   Weekly data analysis labs due on [Gradescope](https://www.gradescope.com/courses/356299) by 10 pm Monday.
-show_post_thumbnail: true
+show_post_thumbnail: false
 thumbnail_left: true
 show_author_byline: false
 show_post_date: true
