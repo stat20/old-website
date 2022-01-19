@@ -30,9 +30,8 @@ enableEmoji = true
 [params]
   description = "Welcome to the course. We're glad you're here."
   favicon = "/img/favicon.ico"
-  logo = "/img/stat-375-hex.png"
-#  logo = "static/letter-g.svg"
-  mainSections = ["syllabus", "schedule", "staff", "labs"]
+  logo = "/img/stat20-hex.png"
+  mainSections = ["syllabus", "schedule", "labs", "problem sets"]
   navallcaps = true
   orgName = "Andrew Bray"
   #sharing_image = "/img/papillons.jpg"
