@@ -69,7 +69,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "r-project" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://r.datahub.berkeley.edu/"
+      url       = "https://stat20.datahub.berkeley.edu/"
   [[params.social]]
       icon      = "chart-bar" # icon name without the 'fa-'
       icon_pack = "fas"
