@@ -10,11 +10,11 @@ links:
 - icon: file-pdf
   icon_pack: fas
   name: Lab
-  url: https://stat20.org/labs/01-getting-started/getting-started.pdf
+  url: https://stat20.org/labs/01/getting-started.pdf
 - icon: images
   icon_pack: fas
   name: Slides
-  url: https://stat20.org/labs/01-getting-started/getting-started-slides.html
+  url: https://stat20.org/labs/01/getting-started-slides.html
 ---
 
 **Due on Gradescope at 10 pm Monday 1/24**
