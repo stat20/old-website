@@ -21,4 +21,4 @@ links:
 
 The first problem set is a pair of surveys. The Welcome Survey helps us understand where you're coming from in taking this course. The responses will be read by your GSIs and not shared publicly. The Data Collection is a mix of different questions that will help generate a data set that we will draw on throughout the course. Please assume that any answers entered into the Data Collection survey will be public.
 
-Upon completing the survey, please visit Problem Set 1 and answer 1 question that references the surveys.
+Upon completing the survey, please visit Problem Set 1 on Gradescope and answer one question that references the surveys.
