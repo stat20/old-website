@@ -70,7 +70,7 @@ Feel free to come to Prof. Bray’s office hours even if you don’t have a spec
 
 The textbook associated with this course is [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) by &#199;etinkaya-Rundel and Hardin. This is a free online textbook that can also be downloaded as a [pdf](https://leanpub.com/imstat) or ordered in [print](https://www.amazon.com/Introduction-Modern-Statistics-Mine-%C3%87etinkaya-Rundel/dp/1943450145/) for $15.
 
-The software that we'll be using for our data analysis is the free and open-source language called R that we'll be interacting with via software called RStudio. As a Berkeley student, you have your own version of RStudio waiting you for at: [http://r.datahub.berkeley.edu](http:\\r.datahub.berkeley.edu).
+The software that we'll be using for our data analysis is the free and open-source language called R that we'll be interacting with via software called RStudio. As a Berkeley student, you have your own version of RStudio waiting you for at: [http://stat20.datahub.berkeley.edu](http://stat20.datahub.berkeley.edu).
 
 
 ### Course communication
