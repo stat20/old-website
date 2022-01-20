@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-subtitle: "STAT 375, UC Berkeley, Spring 2022"
+subtitle: "STAT 20, UC Berkeley, Spring 2022"
 slug: schedule
 hide_details: true
 draft: false
