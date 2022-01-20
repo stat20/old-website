@@ -25,20 +25,24 @@ Selection of topics:
 
 
 ### Course Culture
-Students taking Stat 20 come from a wide range of backgrounds. We hope to foster an inclusive and supportive learning environment based on curiosity rather than competition. All members of the course community—the instructor, students, GSIs, and tutors—are expected to treat each other with courtesy and respect.
+
+Students taking Stat 20 come from a wide range of backgrounds. We hope to foster an inclusive and supportive learning environment based on curiosity rather than competition. All members of the course community—the instructor, students, and GSIs—are expected to treat each other with courtesy and respect.
 
 You will be interacting with course staff and fellow students in several different environments: in lab, in lecture, over the discussion forum, and at the evening study session. Some of these will be in person, some of them will be online, but the same expectations hold: be kind, be respectful, be professional.
 
 If you are concerned about classroom environment issues created by other students, please come talk to us about it. If you are concerned with issues created by course staff, please talk to the instructor.
 
 
+
 ### Mode of Instruction
+
 The first two weeks of lectures, labs, evening study session, and office hours will be held live on Zoom. All Zoom links will be distributed via the class forum. After two weeks, we plan to resume the mode of instruction outlined below, though that will be moderated by any changes to campus policy.
 
 Maintaining your health and that of the Berkeley community is of primary importance to course staff, so if you are feeling ill or have been exposed to illness, please do not come to class. Recordings of the lecture are available online and you will have the ability to join a make-up lab remotely.
 
 
 #### Lectures
+
 This course, Stat 20 in Spring 2022, has three lecture sections. Lecture 002 is a live lecture in-person. Lecture 001 is a simulcast from Lecture 002 projected into an overflow room. The lecture will be recorded and posted to bCourses for asynchronous viewing by all students, including those in Lecture 003, which is a section with only these recorded lectures.
 
 The lecture recordings will be available on bCourses for a window of 24 hours after the lecture was given live. This balances the flexibility to watch lecture when convenient with a structure that will help keep students on up-to-date with the course. All of the lecture recordings will be made available again prior to the midterm and final for review.
@@ -70,7 +74,14 @@ Feel free to come to Prof. Bray’s office hours even if you don’t have a spec
 
 The textbook associated with this course is [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) by &#199;etinkaya-Rundel and Hardin. This is a free online textbook that can also be downloaded as a [pdf](https://leanpub.com/imstat) or ordered in [print](https://www.amazon.com/Introduction-Modern-Statistics-Mine-%C3%87etinkaya-Rundel/dp/1943450145/) for $15.
 
-The software that we'll be using for our data analysis is the free and open-source language called R that we'll be interacting with via software called RStudio. As a Berkeley student, you have your own version of RStudio waiting you for at: [http://stat20.datahub.berkeley.edu](http://stat20.datahub.berkeley.edu).
+The following texts are valuable supplementary texts and will be drawn upon for additional readings:
+
+- [Statistics](https://wwnorton.com/books/9780393929720), Freedman, Pisani, and Purves
+- [Data Visualization: A Practical Introduction](https://socviz.co/), Healy
+- [Hands-on Programming with R](https://rstudio-education.github.io/hopr/), Grolemund
+- [R for Data Science](https://r4ds.had.co.nz/), Wickham and Grolemund
+
+The software that we'll be using for our data analysis is the free and open-source language called R that we'll be interacting with via software called RStudio. As a Berkeley student, you have your own version of RStudio waiting you for at: [http://stat20.datahub.berkeley.edu](http://stat20.datahub.berkeley.edu). Most students taking Stat 20 have no experience programming; we'll teach you everything you need to know!
 
 
 ### Course communication
