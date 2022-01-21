@@ -9,8 +9,8 @@ show_title_as_headline: true
 
 **Lecture**: MWF, 11 am - 12 noon PT  
 **Lab Sections**: Tues and Thurs, throughout the day 
-
-Lab assignments and problem sets will generally be available on Tuesday mornings here on the website and are due on [Gradescope](https://www.gradescope.com) by 10 pm Mondays.
+**Assignments released**: Tuesday morning
+**Assignments due**: Monday night 10 pm on Gradescope
 
 <table class="table table-hover" style="margin-left: auto; margin-right: auto;">
  <thead>
