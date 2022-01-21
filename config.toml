@@ -86,9 +86,9 @@ enableEmoji = true
 
 [menu]
   [[menu.footer]]
-    name = "Made with help"
+    name = "Made with help."
     title = "Made with help"
-    url = "/colophon/"
+    url = "/attribution/"
     weight = 1
   [[menu.header]]
     name = "Syllabus"
