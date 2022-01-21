@@ -8,6 +8,8 @@ show_title_as_headline: true
 
 The materials and website for this course are made possible by an open and generous community of educators and tool makers.
 
+Many of the questions from the problem set and some of the questions and data sets from the labs are derivatives of resources produced and released by [OpenIntro](https://openintro.org/).
+
 The design of this website is based upon the [Apéro](https://github.com/hugo-apero/) Hugo theme, which is a port of the [Blogophonic](https://github.com/formspree/blogophonic-hugo) theme. Layout and styling borrows from [Garrick Aden-Buie](https://www.garrickadenbuie.com/). The source of the website is rendered with the [blogdown](https://bookdown.org/yihui/blogdown/) R package. The slides use [reveal.js](https://revealjs.com/) rendered from R Markdown source files using the [xaringan](https://github.com/yihui/xaringan) R package.
 
 ### License
