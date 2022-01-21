@@ -9,7 +9,7 @@ show_title_as_headline: true
 
 **Lecture**: MWF, 11 am - 12 noon PT  
 **Lab Sections**: Tues and Thurs, throughout the day 
-**Assignments released**: Tuesday morning
+**Assignments released**: Tuesday morning  
 **Assignments due**: Monday night 10 pm on Gradescope
 
 <table class="table table-hover" style="margin-left: auto; margin-right: auto;">
