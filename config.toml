@@ -29,7 +29,7 @@ enableEmoji = true
     
 [params]
   description = "Welcome to the course. We're glad you're here."
-  favicon = "/img/favicon.ico"
+  favicon = "/hexes/favicon.ico"
   logo = "/img/stat20-hex.png"
   mainSections = ["syllabus", "schedule", "labs", "problem sets"]
   navallcaps = true
