@@ -1,8 +1,5 @@
 {{ define "main" }}
 {{ $page := . }}
-
-{{ $page_toc_label := .Params.sidebar.text_contents_label | default "On this page" }}
-
 <main class="page-main pa4" role="main">
   <section class="page-content mw8 center">
 
@@ -68,17 +65,18 @@
               </div>
             {{ end }}
             </div>
-            
-              {{ $headers := findRE "<h[2].*>" $page.Content }}
-  {{- $has_headers := ge (len $headers) 1 -}}
-  {{- if $has_headers -}}
-  <details open id="PageTableOfContents">
-    <summary><h2 class="mv0 f5 fw7 ttu tracked dib">{{ $page_toc_label }}</h2></summary>
-    <div class="pl2 pr0 mh0">
-    {{ $page.TableOfContents }}
-    </div>
-  </details>
-  {{ end }}
+
+            {{ if .Params.audio_link_label }}
+            {{ $audio := ($sidebar_pg.Resources).GetMatch "*audio*" }}
+            <div class="pa1 pa2-ns tc ph4">
+                <p class="fw2 pb1">{{ .Params.audio_link_label }}</p>
+                <p>
+                {{ with $audio }}
+                <audio src="{{ .RelPermalink }}" controls></audio>
+                {{ end }}
+                </p>
+            </div>
+            {{ end }}
 
           <div class="pa1 pa2-ns tc ph4">
             <h5 class="f-subheadline f4 fw2 ttu tracked">{{ .Params.link_list_label }}</h5>

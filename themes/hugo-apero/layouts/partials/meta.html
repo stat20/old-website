@@ -45,8 +45,11 @@
 {{- with $.Params.images -}}
     <meta name="twitter:card" content="summary_large_image"/>
     {{- $image := (index . 0) -}}
+    {{- $image_link_external := (findRE "^https?://" $image) -}}
     {{- $image_link_absolute := (findRE "^/" $image) -}}
-    {{- if $image_link_absolute -}}
+    {{- if $image_link_external -}}
+        <meta name="twitter:image" content="{{- $image -}}"/>
+    {{- else if $image_link_absolute -}}
         <meta name="twitter:image" content="{{- $image | absURL -}}"/>
     {{- else -}}
         <meta name="twitter:image" content="{{- (printf "%s%s" $permalink $image) -}}"/>
