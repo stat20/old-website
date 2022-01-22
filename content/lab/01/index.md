@@ -3,6 +3,7 @@ title: "Lab 1: Getting Started"
 summary: "Creating written documents with Markdown."
 subtitle: "Creating written documents with Markdown"
 publishdate: "2022-01-20"
+date: "2022-01-20"
 show_post_date: false
 featured: true
 layout: single
