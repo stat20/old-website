@@ -36,7 +36,7 @@ show_title_as_headline: true
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> Wednesday </td>
    <td style="text-align:left;"> 1/19 </td>
-   <td style="text-align:left;"> Explaining the World with Data </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lecture/01" style="     ">Explaining the World with Data</a> </td>
    <td style="text-align:left;"> none </td>
    <td style="text-align:left;"> <a href="https://www.stat20.org/ps/01" style="     ">PS 1</a> </td>
   </tr>
@@ -44,7 +44,7 @@ show_title_as_headline: true
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> Friday </td>
    <td style="text-align:left;"> 1/21 </td>
-   <td style="text-align:left;"> Taxonomy of Data </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lecture/02" style="     ">Taxonomy of Data </a></td>
    <td style="text-align:left;"> <a href="https://openintro-ims.netlify.app/data-hello.html" style="     " target="_blank">OpenIntro 1</a> </td>
    <td style="text-align:left;"> Quiz: none </td>
   </tr>
@@ -52,7 +52,7 @@ show_title_as_headline: true
    <td style="text-align:left;"> 2 </td>
    <td style="text-align:left;"> Monday </td>
    <td style="text-align:left;"> 1/24 </td>
-   <td style="text-align:left;"> R as a Calculator </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lecture/03" style="     ">R as a Calculator</a> </td>
    <td style="text-align:left;"> <a href="https://rstudio-education.github.io/hopr/project-2-playing-cards.html" style="     " target="_blank">Grolemund 2</a> </td>
    <td style="text-align:left;"> <a href="https://www.stat20.org/lab/02/" style="     ">Lab 2</a> </td>
   </tr>
@@ -60,7 +60,7 @@ show_title_as_headline: true
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> Wednesday </td>
    <td style="text-align:left;"> 1/26 </td>
-   <td style="text-align:left;"> Describing Categorical Data </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lecture/04" style="     ">Describing Categorical Data</a> </td>
    <td style="text-align:left;"> <a href="https://openintro-ims.netlify.app/explore-categorical.html" style="     " target="_blank">OpenIntro 4</a> </td>
    <td style="text-align:left;"> <a href="https://www.stat20.org/ps/02/" style="     ">PS 2</a> </td>
   </tr>
@@ -68,7 +68,7 @@ show_title_as_headline: true
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> Friday </td>
    <td style="text-align:left;"> 1/28 </td>
-   <td style="text-align:left;"> Describing Numerical Data I </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lecture/05" style="     ">Describing Numerical Data I</a> </td>
    <td style="text-align:left;"> <a href="https://openintro-ims.netlify.app/explore-numerical.html" style="     " target="_blank">OpenIntro 5</a> </td>
    <td style="text-align:left;"> <a href="https://www.gradescope.com/courses/356299" style="     ">Quiz 1</a> </td>
   </tr>
@@ -76,7 +76,7 @@ show_title_as_headline: true
    <td style="text-align:left;"> 3 </td>
    <td style="text-align:left;"> Monday </td>
    <td style="text-align:left;"> 1/31 </td>
-   <td style="text-align:left;"> Describing Numerical Data II + Grammar of Graphics </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lecture/06" style="     ">Describing Numerical Data II + Grammar of Graphics</a> </td>
    <td style="text-align:left;"> <a href="https://r4ds.had.co.nz/data-visualisation.html" style="     " target="_blank">R4DS 3</a> </td>
    <td style="text-align:left;"> <a href="https://www.stat20.org/lab/03/" style="     ">Lab 3</a> </td>
   </tr>
@@ -84,7 +84,7 @@ show_title_as_headline: true
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> Wednesday </td>
    <td style="text-align:left;"> 2/2 </td>
-   <td style="text-align:left;"> Reproducibility </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lecture/07" style="     ">Reproducibility</a> </td>
    <td style="text-align:left;"> <a href="https://r4ds.had.co.nz/r-markdown.html" style="     " target="_blank">R4DS 27</a> </td>
    <td style="text-align:left;"> <a href="https://www.stat20.org/ps/03/" style="     ">PS 3</a> </td>
   </tr>
@@ -92,7 +92,7 @@ show_title_as_headline: true
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> Friday </td>
    <td style="text-align:left;"> 2/4 </td>
-   <td style="text-align:left;"> Effective Data Visualization </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lecture/08" style="     ">Effective Data Visualization</a> </td>
    <td style="text-align:left;"> <a href="https://socviz.co/makeplot.html" style="     " target="_blank">DV 3</a> </td>
    <td style="text-align:left;"> Quiz: none </td>
   </tr>
