@@ -1,7 +1,7 @@
 ---
 title: "Lecture 2: The Taxonomy of Data"
 subtitle: "Classifying variables and constructing data frames"
-extract: "Classifying variables and constructing data frames"
+summary: "Classifying variables and constructing data frames"
 layout: single
 links:
 - icon: images

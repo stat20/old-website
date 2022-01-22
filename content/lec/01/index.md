@@ -1,7 +1,7 @@
 ---
 title: "Lecture 1: Welcome to Class!"
 subtitle: "Making claims about the world with data"
-extract: "Making claims about the world with data"
+summary: "Making claims about the world with data"
 layout: single
 links:
 links:
