@@ -1,12 +1,13 @@
 ---
 title: "Lecture 2: The Taxonomy of Data"
 subtitle: "Classifying variables and constructing data frames"
+extract: "Classifying variables and constructing data frames"
 layout: single
 links:
 - icon: images
   icon_pack: fas
   name: Slides
-  url: https://stat20.org/lectures/01/taxonomy-of-data.Rmd
+  url: https://stat20.org/lectures/02/taxonomy-of-data.html
 ---
 
 ### Terminology

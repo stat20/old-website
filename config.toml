@@ -31,7 +31,7 @@ enableEmoji = true
   description = "Welcome to the course. We're glad you're here."
   favicon = "/hexes/favicon.ico"
   logo = "/img/stat20-hex.png"
-  mainSections = ["syllabus", "schedule", "labs", "problem sets"]
+  mainSections = ["syllabus", "schedule", "lectures", "labs", "problem sets"]
   navallcaps = true
   orgName = "Andrew Bray"
   #sharing_image = "/img/papillons.jpg"
@@ -101,15 +101,20 @@ enableEmoji = true
     url = "/schedule/"
     weight = 2
   [[menu.header]]
+    name = "Lectures"
+    title = "Lectures"
+    url = "/lec/"
+    weight = 3
+  [[menu.header]]
     name = "Labs"
     title = "Labs"
     url = "/lab/"
-    weight = 3
-  [[menu.header]]
-    name = "Problem Sets"
-    title = "Problem Sets"
-    url = "/ps/"
     weight = 4
+  [[menu.header]]
+    name = "PS"
+    title = "PSs"
+    url = "/ps/"
+    weight = 5
 
 # see https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
