@@ -111,8 +111,8 @@ enableEmoji = true
     url = "/lab/"
     weight = 4
   [[menu.header]]
-    name = "PS"
-    title = "PSs"
+    name = "Problem Sets"
+    title = "Problem Sets"
     url = "/ps/"
     weight = 5
 
