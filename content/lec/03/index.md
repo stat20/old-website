@@ -6,7 +6,7 @@ links:
 - icon: images
   icon_pack: fas
   name: Slides
-  url: https://stat20.org/lectures/03/intro-to-r.Rmd
+  url: https://stat20.org/lectures/03/intro-to-r.html
 ---
 
 #### RStudio Terminology
