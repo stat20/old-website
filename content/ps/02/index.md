@@ -13,7 +13,7 @@ links:
   url: https://stat20.org/problem-sets/02
 ---
 
-**Due on Gradescope at 10 pm Monday 1/24**
+**Due on Gradescope at 10 pm Monday 1/31**
 
 You are welcome to write your problem set either by hand, using Word / Google Doc or putting your answers in an .Rmd file in RStudio. The important thing is that they be uploaded to Gradescope as a PDF file. If you are writing your answers by hand, please use a phone cam scanner app instead of simply taking photos.
 
