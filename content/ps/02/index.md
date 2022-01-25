@@ -1,7 +1,7 @@
 ---
 title: "Problem Set 2"
-summary: "Data Frames and Contingency Tables"
-subtitle: "Data Frames and Contingency Tables"
+summary: "Data Frames and Contingency Tables."
+subtitle: "Data Frames and Contingency Tables."
 publishdate: "2022-01-25"
 show_post_date: false
 featured: true
