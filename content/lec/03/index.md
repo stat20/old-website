@@ -1,7 +1,7 @@
 ---
 title: "Lecture 3: A Tool for Computing with Data"
 subtitle: "An introduction to the R language for statistical computing"
-summary: "Understanding, visualizing, and drawing conclusions from large and diverse requires a powerful computational tool. The R language for statistical computing is one such tool designed explicitly with this goal in mind."
+summary: "An introduction to the R language for statistical computing."
 publishdate: "2022-01-24"
 date: "2022-01-24"
 show_post_date: false
