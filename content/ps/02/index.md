@@ -10,7 +10,7 @@ links:
 - icon: file-pdf
   icon_pack: fas
   name: PS 2
-  url: https://stat20.org/problem-sets/02
+  url: https://stat20.org/problem-sets/02/data-foundations.pdf
 ---
 
 **Due on Gradescope at 10 pm Monday 1/31**
