@@ -52,7 +52,7 @@ show_title_as_headline: true
    <td style="text-align:left;"> 2 </td>
    <td style="text-align:left;"> Monday </td>
    <td style="text-align:left;"> 1/24 </td>
-   <td style="text-align:left;"> <a href="https://www.stat20.org/lec/03" style="     ">R as a Calculator</a> </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lec/03" style="     ">A Tool for Computing with Data</a> </td>
    <td style="text-align:left;"> <a href="https://rstudio-education.github.io/hopr/basics.html" style="     " target="_blank">Grolemund 2</a> </td>
    <td style="text-align:left;"> <a href="https://www.stat20.org/lab/02/" style="     ">Lab 2</a> </td>
   </tr>
