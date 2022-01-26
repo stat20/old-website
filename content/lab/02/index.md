@@ -15,6 +15,10 @@ links:
   icon_pack: fas
   name: Slides I
   url: https://stat20.org/labs/02/slides-2A.html
+- icon: images
+  icon_pack: fas
+  name: Slides II
+  url: https://stat20.org/labs/02/slides-2B.html
 ---
 
 **Due on Gradescope Monday 1/31 at 10 PM**
@@ -24,6 +28,9 @@ Please answer the questions linked above in a Google Doc, with plots copied and 
 Tuesday's lab session is an R Workshop where you'll prepare your answer to the Preparation portion and practice the skills needed for the rest of the lab. In Thursdays lab session you'll work on the questions found in Part I and Part II. Materials used in the lab sessions will be linked above.
 
 Part III you will be doing outside of class. We encourage you to complete your lab at the evening study sessions held Monday and Thursday evening.
+
+The data for this lab can be found in the `arbuthnot` and `present` data frames stored in the `stat20data` package.
+
 
 ### The Stucture of Lab Assignments
 
