@@ -70,7 +70,7 @@ show_title_as_headline: true
    <td style="text-align:left;"> 1/28 </td>
    <td style="text-align:left;"> <a href="https://www.stat20.org/lec/05" style="     ">Describing Numerical Data I</a> </td>
    <td style="text-align:left;"> <a href="https://openintro-ims.netlify.app/explore-numerical.html" style="     " target="_blank">OpenIntro 5</a> </td>
-   <td style="text-align:left;"> <a href="https://www.gradescope.com/courses/356299" style="     ">Quiz 1</a> </td>
+   <td style="text-align:left;"> Quiz: none </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 3 </td>
@@ -94,7 +94,7 @@ show_title_as_headline: true
    <td style="text-align:left;"> 2/4 </td>
    <td style="text-align:left;"> <a href="https://www.stat20.org/lec/08" style="     ">Effective Data Visualization</a> </td>
    <td style="text-align:left;"> <a href="https://socviz.co/makeplot.html" style="     " target="_blank">DV 3</a> </td>
-   <td style="text-align:left;"> Quiz: none </td>
+   <td style="text-align:left;"><a href="https://www.gradescope.com/courses/356299" style="     ">Quiz 1</a> </td>
   </tr>
 </tbody>
 </table>
