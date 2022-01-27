@@ -103,17 +103,17 @@ enableEmoji = true
   [[menu.header]]
     name = "Lectures"
     title = "Lectures"
-    url = "/lec/"
+    url = "/lectures/"
     weight = 3
   [[menu.header]]
     name = "Labs"
     title = "Labs"
-    url = "/lab/"
+    url = "/labs/"
     weight = 4
   [[menu.header]]
     name = "Problem Sets"
     title = "Problem Sets"
-    url = "/ps/"
+    url = "/problem-sets/"
     weight = 5
 
 # see https://gohugo.io/about/hugo-and-gdpr/
