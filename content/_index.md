@@ -12,7 +12,7 @@ action_label: Read Syllabus &rarr;
 action_link: /syllabus
 action_type: text
 show_featured: true
-number_featured: 3
+number_featured: 1
 use_featured: true
 type: home
 ---
