@@ -19,9 +19,13 @@ links:
   icon_pack: fas
   name: Slides I
   url: https://stat20.org/labs/03/slides-1.html
+- - icon: images
+  icon_pack: fas
+  name: Slides II
+  url: https://stat20.org/labs/03/slides-2.html
 ---
 
-As part of Problem Set 1, the students in Stat 20 filled out a survey that asked questions on range of topics. Students' answers constitute a data set that is diverse in the type of variables that were observed. In this lab you'll summarize the responses to this survey using statistical graphics and summary statistics.
+* * *
 
 ### Concepts
 - Mapping a question about variable(s) to an appropriate numerical or graphical summary.
