@@ -25,7 +25,6 @@ links:
   url: https://stat20.org/labs/03/slides-2.html
 ---
 
-* * *
 
 ### Concepts
 - Mapping a question about variable(s) to an appropriate numerical or graphical summary.
