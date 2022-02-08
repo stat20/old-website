@@ -25,7 +25,7 @@ links:
   url: https://stat20.org/labs/03/slides-2.html
 ---
 
-At the beginning of the course you filled out a survey that ask you a wide range of academic, opinion, and lifestyle questions. The answers to those questions were stored in a data frame. In this lab, you'll use that data to learn about your fellow students using numerical and graphical summaries.
+At the beginning of the course you filled out a survey that asked you a wide range of academic, opinion, and lifestyle questions. The answers to those questions were stored in a data frame. In this lab, you'll use that data to learn about your fellow students using numerical and graphical summaries.
 
 
 ### Concepts
