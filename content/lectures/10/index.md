@@ -1,5 +1,5 @@
 ---
-title: "Lecture 10: Data Pipelinear"
+title: "Lecture 10: Data Pipelines"
 subtitle: " "
 summary: " "
 layout: single
