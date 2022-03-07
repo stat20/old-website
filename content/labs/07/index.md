@@ -2,8 +2,8 @@
 title: "Lab 7: Practice with Intervals and Tests"
 subtitle: "Bootstrapping CIs and Permutation Tests with `infer`"
 summary: "Bootstrapping CIs and Permutation Tests with `infer`."
-publishdate: "2022-03-01"
-date: "2022-03-01"
+publishdate: "2022-03-06"
+date: "2022-03-06"
 show_post_date: false
 featured: true
 links:
