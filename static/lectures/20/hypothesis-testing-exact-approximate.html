@@ -411,8 +411,8 @@
 <li class="fragment">Three ways to the Null
 <ol type="1">
 <li class="fragment">Simulation: Taking Draws</li>
-<li class="fragment">Probability: Exact Method</li>
-<li class="fragment">Central Limit Theorem: Approximate Method</li>
+<li class="fragment">Exact Method: Binomial</li>
+<li class="fragment">Approximate Method: Central Limit Theorem</li>
 </ol></li>
 </ol>
 </section>
@@ -629,6 +629,27 @@ Var(X) &amp;= \sigma^2
 </div>
 </div>
 </section>
+<section id="the-normal-distribution-1" class="slide level2">
+<h2>The Normal Distribution</h2>
+<p>Describes a <em>continuous</em> random variable that is bell-shaped, centered at <span class="math inline">\(\mu\)</span> and with a spread of <span class="math inline">\(\sigma\)</span>.</p>
+<p><span class="math display">\[
+X \sim \textrm{N}(\mu, \sigma)
+\]</span></p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><strong>The Empirical Rule</strong></p>
+<p>For a <em>standardized normal</em> rv,</p>
+<p><span class="math display">\[Z \sim N(\mu, \sigma)\]</span></p>
+<p>68% of the distribution is within 1 SD, 95% within 2 SD, 99.7% within 3.</p>
+</div><div class="column" style="width:50%;">
+<div class="cell">
+<div class="cell-output-display">
+<p><img data-src="hypothesis-testing-exact-approximate_files/figure-revealjs/unnamed-chunk-30-1.png" width="960"></p>
+</div>
+</div>
+</div>
+</div>
+</section>
 <section id="section-10" class="slide level2" data-background-image="images/approx-1.jpg" data-background-size="contain">
 <h2></h2>
 </section>
@@ -641,7 +662,7 @@ Var(X) &amp;= \sigma^2
 X \sim \textrm{N}(\mu = 75 \cdot .5, \sigma = \sqrt(75 \cdot .5 \cdot .5)
 \]</span></p>
 
-<img data-src="hypothesis-testing-exact-approximate_files/figure-revealjs/unnamed-chunk-30-1.png" width="960" class="r-stretch quarto-figure-center"><div class="fragment">
+<img data-src="hypothesis-testing-exact-approximate_files/figure-revealjs/unnamed-chunk-32-1.png" width="960" class="r-stretch quarto-figure-center"><div class="fragment">
 <blockquote>
 <p>What is <span class="math inline">\(P(X \ge 50) + P(X \le 25)\)</span>?</p>
 </blockquote>
