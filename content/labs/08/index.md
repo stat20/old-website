@@ -13,6 +13,10 @@ links:
   url: https://stat20.org/labs/08/elections.pdf
 - icon: images
   icon_pack: fas
-  name: Slides
+  name: Slides I
   url: https://stat20.org/labs/08/slides-1.html
+- icon: images
+  icon_pack: fas
+  name: Slides II
+  url: https://stat20.org/labs/08/slides-2.html
 ---
