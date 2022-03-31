@@ -11,9 +11,9 @@ knitr::opts_chunk$set(eval = FALSE,
                       warning = FALSE)
 ```
 
-1. Record below any changes that you made to your experimental protocol.
+1. List any changes that you made to your experimental protocol.
 
-2. Create a data frame based on the data you collected and print out into your pdf. You can print all rows your data frame using `print(my_tibble, n = nrow(my_tibble))`.
+2. Create a data frame based on the data you collected and print it out into your pdf. You can print all rows your data frame using `print(my_tibble, n = nrow(my_tibble))`.
 
 3. Create a visualization of the data you collected (not the null distribution) similar to the one you sketched in the handout. Does it look clearly in support of your claim or contrary to your claim or somewhere in between?
 
