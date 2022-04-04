@@ -264,8 +264,160 @@ show_title_as_headline: true
    <td style="text-align:left;"> <a href="NA" style="     " target="_blank">none</a> </td>
    <td style="text-align:left;"> <a href="NA" style="     ">none</a> </td>
   </tr>
+  <tr>
+   <td style="text-align:left;"> 11 </td>
+   <td style="text-align:left;"> Monday </td>
+   <td style="text-align:left;"> 3/28 </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lectures/26/" style="     ">Bayesian Estimation</a> </td>
+   <td style="text-align:left;"> <a href="NA" style="     " target="_blank">See lecture page</a> </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lab/09/" style="     ">Lab 9</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Wednesday </td>
+   <td style="text-align:left;"> 3/30 </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lectures/27/" style="     ">Causality</a> </td>
+   <td style="text-align:left;"> <a href="NA" style="     " target="_blank">See lecture page</a> </td>
+   <td style="text-align:left;"> <a href="NA" style="     ">PS: none</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Friday </td>
+   <td style="text-align:left;"> 4/1 </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lectures/28/" style="     ">Experimental Design</a> </td>
+   <td style="text-align:left;"> <a href="https://openintro-ims.netlify.app/data-design.html#experiments" style="     " target="_blank">OpenIntro 2</a> </td>
+   <td style="text-align:left;"> <a href="NA" style="     ">Quiz: none</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 12 </td>
+   <td style="text-align:left;"> Monday </td>
+   <td style="text-align:left;"> 4/4 </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lectures/29/" style="     ">Experimental Design II</a> </td>
+   <td style="text-align:left;"> <a href="https://openintro-ims.netlify.app/data-design.html#experiments" style="     " target="_blank">OpenIntro 2</a> </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lab/10/" style="     ">Lab 10</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Wednesday </td>
+   <td style="text-align:left;"> 4/6 </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lectures/30/" style="     ">Correlation</a> </td>
+   <td style="text-align:left;"> <a href="https://openintro-ims.netlify.app/model-slr.html#fit-line-res-cor" style="     " target="_blank">OpenIntro 7.1</a> </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/problem-sets/10/" style="     ">PS 10</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Friday </td>
+   <td style="text-align:left;"> 4/8 </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lectures/31/" style="     ">Line of Best Fit</a> </td>
+   <td style="text-align:left;"> <a href="https://openintro-ims.netlify.app/model-slr.html#least-squares-regression" style="     " target="_blank">OpenIntro 7.2</a> </td>
+   <td style="text-align:left;"> <a href="NA" style="     ">Quiz 4</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 13 </td>
+   <td style="text-align:left;"> Monday </td>
+   <td style="text-align:left;"> 4/11 </td>
+   <td style="text-align:left;"> <a href="NA" style="     ">No Class</a> </td>
+   <td style="text-align:left;"> <a href="NA" style="     " target="_blank">NA</a> </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lab/11/" style="     ">Lab 11</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Wednesday </td>
+   <td style="text-align:left;"> 4/13 </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lectures/32/" style="     ">Predictions, Interpretations, Outliers</a> </td>
+   <td style="text-align:left;"> <a href="https://openintro-ims.netlify.app/model-slr.html#outliers-in-regression" style="     " target="_blank">OpenIntro 7.3</a> </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/problem-sets/11/" style="     ">PS 11</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Friday </td>
+   <td style="text-align:left;"> 4/15 </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lectures/33/" style="     ">Inference for Regression</a> </td>
+   <td style="text-align:left;"> <a href="https://openintro-ims.netlify.app/inf-model-slr.html" style="     " target="_blank">OpenIntro 24</a> </td>
+   <td style="text-align:left;"> <a href="NA" style="     ">Quiz: none</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 14 </td>
+   <td style="text-align:left;"> Monday </td>
+   <td style="text-align:left;"> 4/18 </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lectures/34/" style="     ">Geometry of Multiple Regression</a> </td>
+   <td style="text-align:left;"> <a href="https://openintro-ims.netlify.app/model-mlr.html" style="     " target="_blank">OpenIntro 8</a> </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lab/12/" style="     ">Lab 12</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Wednesday </td>
+   <td style="text-align:left;"> 4/20 </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lectures/35/" style="     ">Adding Complexity</a> </td>
+   <td style="text-align:left;"> <a href="https://openintro-ims.netlify.app/inf-model-mlr.html" style="     " target="_blank">OpenIntro 25</a> </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/problem-sets/12/" style="     ">PS 12</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Friday </td>
+   <td style="text-align:left;"> 4/22 </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lectures/36/" style="     ">Concepts in Model Building</a> </td>
+   <td style="text-align:left;"> <a href="https://openintro-ims.netlify.app/inf-model-mlr.html" style="     " target="_blank">OpenIntro 25</a> </td>
+   <td style="text-align:left;"> <a href="NA" style="     ">Quiz 5</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 15 </td>
+   <td style="text-align:left;"> Monday </td>
+   <td style="text-align:left;"> 4/25 </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lectures/37/" style="     ">Challenges in Model Interpretation</a> </td>
+   <td style="text-align:left;"> <a href="https://openintro-ims.netlify.app/inf-model-mlr.html" style="     " target="_blank">OpenIntro 25</a> </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lab/13/" style="     ">Lab 13</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Wednesday </td>
+   <td style="text-align:left;"> 4/27 </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lectures/38/" style="     ">From Linear to Logistic</a> </td>
+   <td style="text-align:left;"> <a href="https://openintro-ims.netlify.app/model-logistic.html" style="     " target="_blank">OpenIntro 9</a> </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/problem-sets/13/" style="     ">PS 13</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Friday </td>
+   <td style="text-align:left;"> 4/29 </td>
+   <td style="text-align:left;"> <a href="https://www.stat20.org/lectures/39/" style="     ">Last Lecture</a> </td>
+   <td style="text-align:left;"> <a href="NA" style="     " target="_blank">NA</a> </td>
+   <td style="text-align:left;"> <a href="NA" style="     ">Quiz: none</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 16 </td>
+   <td style="text-align:left;"> Monday </td>
+   <td style="text-align:left;"> 5/2 </td>
+   <td style="text-align:left;"> <a href="NA" style="     ">RRR</a> </td>
+   <td style="text-align:left;"> <a href="NA" style="     " target="_blank">NA</a> </td>
+   <td style="text-align:left;"> <a href="NA" style="     ">NA</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Wednesday </td>
+   <td style="text-align:left;"> 5/4 </td>
+   <td style="text-align:left;"> <a href="NA" style="     ">RRR</a> </td>
+   <td style="text-align:left;"> <a href="NA" style="     " target="_blank">NA</a> </td>
+   <td style="text-align:left;"> <a href="NA" style="     ">NA</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Friday </td>
+   <td style="text-align:left;"> 5/6 </td>
+   <td style="text-align:left;"> <a href="NA" style="     ">RRR</a> </td>
+   <td style="text-align:left;"> <a href="NA" style="     " target="_blank">NA</a> </td>
+   <td style="text-align:left;"> <a href="NA" style="     ">NA</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 17 </td>
+   <td style="text-align:left;"> Finals Week </td>
+   <td style="text-align:left;"> NA </td>
+   <td style="text-align:left;"> <a href="NA" style="     ">See campus exam schedule</a> </td>
+   <td style="text-align:left;"> <a href="NA" style="     " target="_blank">NA</a> </td>
+   <td style="text-align:left;"> <a href="NA" style="     ">NA</a> </td>
+  </tr>
 </tbody>
-</table>  <script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax: {inlineMath: [["$","$"]]}})</script><script>/*
+</table>   <script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax: {inlineMath: [["$","$"]]}})</script><script>/*
  *  /MathJax.js
  *
  *  Copyright (c) 2009-2017 The MathJax Consortium
