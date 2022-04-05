@@ -9,12 +9,12 @@ featured: true
 links:
 - icon: file-pdf
   icon_pack: fas
-  name: Lab 10 Handout
-  url: https://stat20.org/labs/10/handout.pdf
-- icon: file-pdf
-  icon_pack: fas
   name: Lab
   url: https://stat20.org/labs/10/student-evals.pdf
+- icon: file-pdf
+  icon_pack: fas
+  name: Handout
+  url: https://stat20.org/labs/10/handout.pdf
 - icon: images
   icon_pack: fas
   name: Slides
