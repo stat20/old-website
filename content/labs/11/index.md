@@ -14,5 +14,5 @@ links:
 - icon: images
   icon_pack: fas
   name: Slides
-  url: https://stat20.org/labs/11/slides.pdf
+  url: https://stat20.org/labs/11/slides.html
 ---
