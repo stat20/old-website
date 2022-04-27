@@ -16,4 +16,5 @@ links:
 
 ## Additional Readings
 
+- [Sex Bias in Graduate Admissions: Data from Berkeley](https://homepage.stat.uiowa.edu/~mbognar/1030/Bickel-Berkeley.pdf)
 - [Ecological Correlations and the Behavior of Individuals](https://www.jstor.org/stable/2087176?seq=2)
