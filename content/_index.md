@@ -1,6 +1,6 @@
 ---
 title: Introduction to Probability and Statistics
-description: Welcome to the course. We're glad you're here.
+description: For information about the Fall 2022 course, please [click here](https://mail.google.com/mail/u/1/#inbox/FMfcgzGpFqSxtCxjzRRXNfLKcLSVTdNt?projector=1&messagePartId=0.1.1).
 subtitle: STAT 20, UC Berkeley
 images:
 - img/stat20-hex.png
