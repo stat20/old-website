@@ -23,6 +23,7 @@ Whenever you have more than a few observations, it becomes useful to have techni
 - How are various measures of a "typical" value (mean, median, mode) constructed? What do they capture and when are they most useful?
 - What should you look for when describing the shape of a distribution of data?
 
+
 ### Terminology and Skills
 - Plot types: dot plot, histogram, box plot
 - Describing the shape of distributions: modality and skew
