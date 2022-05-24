@@ -67,7 +67,7 @@ enableEmoji = true
       icon_pack = "far"
       url       = "https://edstem.org/us/courses/18678/discussion/"
   [[params.social]]
-      icon      = "r-project" # icon name without the 'fa-'
+      icon      = "python" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://stat20.datahub.berkeley.edu/"
   [[params.social]]
