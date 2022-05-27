@@ -55,11 +55,11 @@ B. The number of yawners in the unseeded group that was observed (4) is similar 
 ## A Simple Game
 
 1. I will randomly call on a student and ask then to select a card at random from a fair deck.
-2. If they select a red card, they win the prize.
-3. If they select a black card, I another student has the opportunity to play.
+2. If they select a black card, they win the prize.
+3. If they select a red card, I another student has the opportunity to play.
 
 
-# Case Study: Gender Discimination
+# Case Study: Gender Discrimination
 
 ## The Experiment
 
