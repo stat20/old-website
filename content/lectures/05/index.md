@@ -18,17 +18,19 @@ Whenever you have more than a few observations, it becomes useful to have techni
 
 ### Key Questions
 
-- When you summarize data, how do you decide what to include and what to omit?
-- How are various plot types (dot plot, histogram, boxplot) constructed? What do they include? What do they omit?
-- How are various measures of a "typical" value (mean, median, mode) constructed? What do they capture and when are they most useful?
-- What should you look for when describing the shape of a distribution of data?
-
+-   When you summarize data, how do you decide what to include and what to omit?
+-   How are various plot types (dot plot, histogram, boxplot) constructed? What do they include? What do they omit?
+-   How are various measures of a "typical" value (mean, median, mode) constructed? What do they capture and when are they most useful?
+-   What should you look for when describing the shape of a distribution of data?
 
 ### Terminology and Skills
-- Plot types: dot plot, histogram, box plot
-- Describing the shape of distributions: modality and skew
-- Mean, median, mode, max
+
+-   Plot types: dot plot, histogram, box plot
+-   Describing the shape of distributions: modality and skew
+-   Mean, median, mode, max
 
 ### References and Additional Readings
+
 See readings listed on the course schedule.
-- *The Seven Pillars of Statistical Wisdom*, Chapter 1, Stephen M. Stigler.
+
+-   *The Seven Pillars of Statistical Wisdom*, Chapter 1, Stephen M. Stigler.
