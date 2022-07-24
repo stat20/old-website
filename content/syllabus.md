@@ -6,7 +6,7 @@ layout: single
 show_title_as_headline: true
 ---
 
-**Instructor**: Andrew Bray  
+**Instructor**: Andrew Bray
 
 <span style="color:red"> For information about the Fall 2022 course, please </span> [click here](https://docs.google.com/document/d/1RgHI8VloHpOMoAHkgmqjub7364neb8At74OOsccgI3c/edit?usp=sharing).
 
