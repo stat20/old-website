@@ -366,15 +366,22 @@ qt(.025, df = nrow(books) - 3)
 Which of the following represents the appropriate 95% CI for `coverpb`?
 
 ::: nonincremental
-1. $197 \pm 1.96 \times 59.19$
-2. $-184 \pm 2.18 \times 40.5$
-3. $-184 \pm -4.55 \times 40.5$
+A. $197 \pm 1.96 \times 59.19$
+B. $-184 \pm 2.18 \times 40.5$
+C. $-184 \pm -4.55 \times 40.5$
 :::
 :::
 
 ```{r echo = FALSE}
 countdown::countdown(1, font_size = "1.5em")
 ```
+
+
+## {}
+
+<center>
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/bUAlI8vXMBnDvqYwsFxes?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+</center>
 
 
 ## Mathematical CIs in R
